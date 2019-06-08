@@ -1,0 +1,9 @@
+// Global styles
+body, html {
+  margin: 0px;
+  padding: 0px;
+}
+
+// Component styles
+@import './components/container';
+@import './components/title';
